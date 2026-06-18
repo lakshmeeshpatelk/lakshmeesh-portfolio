@@ -1053,7 +1053,7 @@ export default function Portfolio() {
           <h1>Lakshmeesh</h1>
           <div className="pf-hero-role">Full-Stack Engineer</div>
           <p className="pf-hero-bio">
-            Hi, I'm <strong>Lakshmeesh</strong> — a full-stack engineer &amp; passionate builder.
+            Hi, I'm <strong>Lakshmeesh</strong> — A full stack Engineer
             <br />
             I build full stack web apps and cool things with tech.
           </p>
@@ -1063,7 +1063,7 @@ export default function Portfolio() {
               GitHub
             </a>
           </div>
-          <p className="pf-hero-subtext">got an idea worth building? let's chat</p>
+          <p className="pf-hero-subtext">Got an idea worth building? let's chat</p>
           <div className="pf-hero-cta-row">
             <a className="pf-hero-link" href="/cv.pdf" download="Lakshmeesh_CV.pdf">
               <IconDownload width={14} height={14} />
