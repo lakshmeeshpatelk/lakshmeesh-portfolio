@@ -1,3 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+#root {
+  width: 100%;
+}
+
+
 .counter {
   font-size: 16px;
   padding: 5px 10px;
