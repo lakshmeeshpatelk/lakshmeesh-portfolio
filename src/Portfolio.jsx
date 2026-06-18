@@ -721,6 +721,9 @@ const CSS = `
 }
 
 .portfolio-page {
+display: flex;
+  flex-direction: column;
+  align-items: center;
   --bg:#000;
   --surface:#0a0a0a;
   --surface2:#111;
