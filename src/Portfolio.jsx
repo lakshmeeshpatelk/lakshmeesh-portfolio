@@ -1065,7 +1065,7 @@ export default function Portfolio() {
           </div>
           <p className="pf-hero-subtext">Got an idea worth building? let's chat</p>
           <div className="pf-hero-cta-row">
-            <a className="pf-hero-link" href="/cv.pdf" download="Lakshmeesh_CV.pdf">
+            <a className="pf-hero-link" href="https://drive.google.com/file/d/1y95cjGhK86IvcolynqNrgqmv5OYhPhsI/view?usp=sharing" download="Lakshmeesh_CV.pdf">
               <IconDownload width={14} height={14} />
               Download CV
             </a>
